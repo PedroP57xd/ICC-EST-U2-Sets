@@ -7,6 +7,9 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class Sets {
+    public Sets() {
+        // Constructor
+    }
 
     public Set<String> construirHashSet() {
         Set<String> palabras = new HashSet<>();

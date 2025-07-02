@@ -1,14 +1,18 @@
 import java.util.Set;
 
+import Controller.ContactoController;
 import Controller.Sets;
+import Models.Contacto;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        runHashSet(null);
-        runLinkedHashSet(null);
-        runTreeSet(null);
-        runTreeSetConComparacion(null);
-        runTreeSetConComparacionR(null);
+        // runHashSet(null);
+        // runLinkedHashSet(null);
+        // runTreeSet(null);
+        // runTreeSetConComparacion(null);
+        // runTreeSetConComparacionR(null);
+        ContactoController contactoController = new ContactoController();
+    
     }
 
     public static void runHashSet(Sets sets) {
