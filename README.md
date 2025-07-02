@@ -1,18 +1,13 @@
-## Getting Started
+# Práctica de Sets
+## 📌 Información General
+Título: Práctica de Sets
+Asignatura: Estructura de Datos
+Carrera: Computación
+Estudiante: Pedro Panjón
+Fecha: 01/07/2025
+Profesor: Ing. Pablo Torres
+## 🛠 Descripción
+En esta práctica se estudiaron los conjuntos (sets) en Java, explorando sus propiedades. Se implementaron ejercicios prácticos para reforzar el uso eficiente de sets en la resolución de problemas.
+## 📷 Captura de Imagen
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Ejercicio](Captura%20de%20pantalla%202025-07-01%20194836.png)
