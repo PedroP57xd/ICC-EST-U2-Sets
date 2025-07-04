@@ -14,3 +14,5 @@ En esta práctica se estudiaron los conjuntos (sets) en Java, explorando sus pro
 ![Ejercicio 1](Captura%20de%20pantalla%202025-07-01%20194836.png)
 ## Ejercicio 2
 ![Ejercicio 2](Captura%20de%20pantalla%202025-07-02%20175429.png)
+## Ejercicio 3
+![Ejercicio 3](Captura%20de%20pantalla%202025-07-03%20200536.png)
